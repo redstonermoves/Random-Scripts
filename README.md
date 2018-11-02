@@ -1,2 +1,2 @@
 # Random-Scripts
-Yes
+THis is just bookmarklets, Lol
