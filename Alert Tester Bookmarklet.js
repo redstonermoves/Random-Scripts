@@ -1,1 +1,1 @@
-javascript:alert(prompt("Imput Mesage"));
+javascript:alert(prompt("Imput Message"));
